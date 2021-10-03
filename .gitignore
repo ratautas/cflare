@@ -1,5 +1,5 @@
-/target
-/dist
+**/target
+**/dist
 **/*.rs.bk
 Cargo.lock
 bin/
