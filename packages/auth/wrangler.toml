@@ -1,7 +1,5 @@
-name = "auth"
-type = "javascript"
-
 account_id = ""
+name = "auth"
+type = "webpack"
 workers_dev = true
-route = ""
-zone_id = ""
+site = { bucket = "./public" }
